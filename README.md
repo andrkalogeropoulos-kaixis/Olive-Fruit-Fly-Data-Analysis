@@ -22,8 +22,8 @@ While the initial goal of high-accuracy forecasting was limited by the available
     Experience in handling real-world, "noisy" datasets and performing data cleaning in R.
     
 
-    ## Sample Results
-        Inside Plots folder are some examples of the automated visualizations produced by the pipeline:
+## Sample Results
+    Inside Plots folder are some examples of the automated visualizations produced by the pipeline:
 
 
 Technologies Used
