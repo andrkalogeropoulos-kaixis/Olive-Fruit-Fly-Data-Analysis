@@ -23,14 +23,7 @@ While the initial goal of high-accuracy forecasting was limited by the available
     
 
 ## Sample Results
-Below are some examples of the automated visualizations produced by the pipeline:
-
-### Population vs Treatments
-![Pest Impact](plots/pest_infestation_treatment_samples/2014-Δ.Δ.Αγίας Παρασκευής ΧΑΛΚΙΔΙΚΗΣ.jpg)
-![Transformation_Stages_Impact](plots/infestation_types_samples/2014-Δ.Δ.Αγίας Παρασκευής ΧΑΛΚΙΔΙΚΗΣ.jpg)
-
-### Weather Correlation
-![Weather Analysis](plots/weather_pest_correlation/2014-Δ.Δ.Αγίας Παρασκευής ΧΑΛΚΙΔΙΚΗΣ.jpg)
+Inside Plots folder are some examples of the automated visualizations produced by the pipeline:
 
 
 Technologies Used
