@@ -2,7 +2,7 @@
 Automated Visual Analysis of Olive Fruit Fly (Bactrocera oleae) Populations
 Project Overview
 
-This project was developed as part of my thesis to analyze and predict outbreaks of the olive fruit fly in Greece using data from the national pest control program. The primary goal was to use Data Mining techniques to forecast outbreaks, allowing for more targeted and reduced insecticide usage.
+This project was developed as part of my thesis to analyze and predict outbreaks of the olive fruit fly - the most destructive pest of olives - in Greece using data from the national pest control program. The primary goal was to use Data Mining techniques to forecast outbreaks, allowing for more targeted and reduced insecticide usage.
 Key Features
 
     Automated Visualization: Developed R scripts to generate comprehensive plots correlating pest populations, infestations, and pesticide applications per municipality.
